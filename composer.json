@@ -1,0 +1,15 @@
+{
+    "name": "denis/chess",
+    "autoload": {
+        "psr-4": {
+            "Denis\\Chess\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Denis Oleshkevich",
+            "email": "denis@oleshkevich.ru"
+        }
+    ],
+    "require": {}
+}
